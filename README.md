@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img src="/assets/header.png">
 
 <h1 align="center">Hi 👋, I'm ERRAGHAY AYOUB</h1>
