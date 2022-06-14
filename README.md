@@ -9,7 +9,12 @@
 
 ### Glad to see you here
 
-<h2>I am a Software developer & The Founder of <a target="_blank" href="https://leafunder.com" >Leafunder</a>, Currently I'm studying at <a target="_blank" href="https://1337.ma" >1337</a> Coding school<h2></div>
+<h2>
+I am a Software developer & The Founder of 
+<a target="_blank" href="https://leafunder.com" >Leafunder</a>, Currently I'm studying at 
+<a target="_blank" href="https://1337.ma" >1337</a> Coding school</h2>
+</div>
+
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/aerragha/count.svg" alt="visitor badge"/></p>
 
