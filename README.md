@@ -1,4 +1,4 @@
-<img src="/assets/header.png">
+<img src="/assets/header.jpg">
 
 <h1 align="center">Hi 👋, I'm ERRAGHAY AYOUB</h1>
 
