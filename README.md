@@ -7,17 +7,19 @@
 ### Glad to see you here
 
 <h2>
-I am a Software developer & The Founder of 
-<a target="_blank" href="https://leafunder.com" >Leafunder</a>, Currently I'm studying at 
-<a target="_blank" href="https://1337.ma" >1337</a> Coding school</h2>
+Adaptable software engineer proficient in various programming languages, focused on delivering efficient, reliable solutions with high scalability and performance
+</h2>
+
 </div>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/aerragha/count.svg" alt="visitor badge"/></p>
 
-- 🔭 I’m currently working on  **[Leafunder](https://leafunder.com)**
+- 👨🏽‍💻 I’m currently working on  **[Logigroup](https://logigroup.com)**
 
-- 👨🏽‍💻 I’m currently studying at **[1337 School](https://1337.ma)**
+- 🔭 Former Founder of **[Leafunder](https://leafunder.com)**
+
+- 🎓 I graduated from **[1337 School coding school](https://1337.ma)**
 
 - 📫 How to reach me **erraghayayoub@gmail.com**
 
