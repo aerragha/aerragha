@@ -12,9 +12,6 @@ Adaptable software engineer proficient in various programming languages, focused
 
 </div>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/aerragha/count.svg" alt="visitor badge"/></p>
-
 - 👨🏽‍💻 I’m currently working on  **[Logigroup](https://logigroup.com)**
 
 - 🔭 Former Founder of **[Leafunder](https://leafunder.com)**
