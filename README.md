@@ -7,7 +7,7 @@
 ### Glad to see you here
 
 <h2>
-Adaptable software engineer proficient in various programming languages, focused on delivering efficient, reliable solutions with high scalability and performance
+Adaptable Software Engineer with 5+ years of experience, proficient in Ruby on Rails, React.js, Node.js, databases, and other technologies. Focused on delivering efficient, reliable solutions with high scalability and performance.
 </h2>
 
 </div>
